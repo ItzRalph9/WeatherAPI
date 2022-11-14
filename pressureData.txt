@@ -1,0 +1,11 @@
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:02:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:07:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:12:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:17:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:22:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:27:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:32:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:37:16
+The pressure is: 1021.9 mBar. Time: 07/06/22 22:42:16
+The pressure is: 1021.7 mBar. Time: 07/06/22 22:47:16
+The pressure is: 1021.7 mBar. Time: 07/06/22 22:52:16
