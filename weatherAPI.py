@@ -7,7 +7,7 @@ starttime = time.time()
 
 lat = 52.274040
 lon = 5.166590
-API_key = "Ain't getting my key" # API key from 'weerlive.com' username: ItzRalph9
+API_key = "Ain't getting my key" # API key from 'weerlive.com'
 
 def barometricPressure():
     response = requests.get(f"https://weerlive.nl/api/json-data-10min.php?key={API_key}&locatie=Bussum")
@@ -24,7 +24,7 @@ def barometricPressure():
     with  open("pressureDataRaw.txt", "a") as f:
         f.write(f"{text_raw}\n")
 
-# a accurate way of running a function every 5 minutes
+# an accurate way of running a function every 5 minutes
 def every(delay, task):
   next_time = time.time() + delay
   while True:
